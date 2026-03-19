@@ -23,7 +23,7 @@ cd API-postgres-nodejs-js
 
 ### 2. Install dependencies
 
-'npm install'
+`npm install`
 
 ### 3. Configure environment variables
 Create a .env file in the root directory:
@@ -38,7 +38,7 @@ DB_PORT=5432
 ```
 
 ### 4. Run the server
-'npm run dev'
+`npm run dev`
 
 Server will run on:
-'http://localhost:3000'
+`http://localhost:3000`
