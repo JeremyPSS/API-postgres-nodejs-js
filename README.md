@@ -17,7 +17,7 @@ This project is intended as a base template for building scalable APIs.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/API-postgres-nodejs-js.git
+git clone https://github.com/jeremypss/API-postgres-nodejs-js.git
 cd API-postgres-nodejs-js
 ```
 
